@@ -1,0 +1,3 @@
+1. Pixel Change with avegrage in Locate class.
+2. Try data to teach ML model to detect how far it has to move
+3. USe thread when KeyBD event occur
